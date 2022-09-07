@@ -1,0 +1,19 @@
+h2{
+    text-align: center;
+    font-family: 'Times New Roman';
+    color:lightblue;
+}
+div{
+    margin: auto;
+    font-size: larger;
+    background-image: url(https://bluerock.marketing/wp-content/uploads/2018/01/AdobeStock_115404083-1024x640.jpeg);
+    width: 1000px;
+    color: aliceblue;
+}
+
+.img-allign{
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
