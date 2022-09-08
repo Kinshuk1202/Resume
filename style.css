@@ -1,7 +1,16 @@
+h1
+{
+    color: #303db5;
+    text-shadow: 2px 2px 2px #CCCCCC;
+    
+}
 h2{
     text-align: center;
     font-family: 'Times New Roman';
-    color:lightblue;
+    color: #D0F8FF;
+    text-shadow: 0 0 5px #1a0531, 0 0 10px #1e373c,
+             0 0 20px #30b75b, 0 0 30px #A5F1FF,
+             0 0 40px #A5F1FF;
 }
 div{
     margin: auto;
@@ -9,11 +18,30 @@ div{
     background-image: url(https://bluerock.marketing/wp-content/uploads/2018/01/AdobeStock_115404083-1024x640.jpeg);
     width: 1000px;
     color: aliceblue;
+    border-radius: 10px;
 }
 
-.img-allign{
-    width: 500px;
+#img-allign{
+    width: 540px;
     display: block;
     margin-left: auto;
     margin-right: auto;
+    
 }
+.logo
+{
+    width: 20px;
+}
+.nav{
+    background-color: black;
+    padding: 30px;
+    border-radius: 8px;
+
+
+}
+nav a{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+
