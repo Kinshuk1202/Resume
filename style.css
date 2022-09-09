@@ -1,18 +1,19 @@
-h1
-{
+h1 {
     color: #303db5;
-    text-shadow: 2px 2px 2px #CCCCCC;
+    text-shadow: 2px 2px 2px #CCCCCC; 
     
 }
-h2{
+
+h2 {
     text-align: center;
     font-family: 'Times New Roman';
     color: #D0F8FF;
     text-shadow: 0 0 5px #1a0531, 0 0 10px #1e373c,
-             0 0 20px #30b75b, 0 0 30px #A5F1FF,
-             0 0 40px #A5F1FF;
+        0 0 20px #30b75b, 0 0 30px #A5F1FF,
+        0 0 40px #A5F1FF;
 }
-div{
+
+div {
     margin: auto;
     font-size: larger;
     background-image: url(https://bluerock.marketing/wp-content/uploads/2018/01/AdobeStock_115404083-1024x640.jpeg);
@@ -21,27 +22,101 @@ div{
     border-radius: 10px;
 }
 
-#img-allign{
+#img-allign {
     width: 540px;
     display: block;
     margin-left: auto;
     margin-right: auto;
-    
+
 }
-.logo
-{
-    width: 20px;
+
+.logo {
+     
 }
-.nav{
+
+.nav {
     background-color: black;
     padding: 30px;
     border-radius: 8px;
 
 
 }
-nav a{
+
+nav a {
     color: white;
     text-decoration: none;
     padding: 10px;
 }
 
+#phn {
+    background-image: url(https://i.pinimg.com/originals/45/3f/14/453f143ad31ed8482ebed9c4084b8059.jpg);
+    border-radius: 10px;
+    margin: auto;
+    width: 450px;
+    float: left;
+    margin-bottom: auto;
+    height: 120px;
+}
+#mail {
+    background-image: url(https://i.pinimg.com/originals/45/3f/14/453f143ad31ed8482ebed9c4084b8059.jpg);
+    border-radius: 10px;
+    margin: auto;
+    width: 450px;
+    height: 120px;
+    float: right;
+    margin-bottom: auto;
+    
+}
+#address {
+    background-image: url(https://i.pinimg.com/originals/45/3f/14/453f143ad31ed8482ebed9c4084b8059.jpg);
+    border-radius: 10px;
+    margin: auto;
+    width: 450px;
+    height: 120px;
+    margin-bottom: auto;
+    
+}
+
+#p {
+    color: darkblue;
+    text-align: center;
+    text-shadow: 1px 1px;
+}
+#e {
+    color: darkblue;
+    text-align: center;
+    text-shadow: 1px 1px;
+}
+#add {
+    color: darkblue;
+    text-align: center;
+    text-shadow: 1px 1px;
+}
+
+.logo{
+    width: 25px;
+}
+footer{
+    background-color: rgb(72, 67, 170);
+    color: aliceblue;
+    padding: 20px;
+
+}
+h4{
+    text-align: center;
+}
+#footer{
+    text-align: center;
+}
+#foot_head{
+    text-align: center;
+    font-size: 125%;
+}
+#copyright{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 90%;
+}
+#fb{
+    width: 35px;
+}
