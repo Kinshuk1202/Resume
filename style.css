@@ -17,27 +17,27 @@ div {
     margin: auto;
     font-size: larger;
     background-image: url(https://bluerock.marketing/wp-content/uploads/2018/01/AdobeStock_115404083-1024x640.jpeg);
-    width: 1000px;
+    width: 62.5rem;
     color: aliceblue;
-    border-radius: 10px;
+    border-radius: 0.625rem;
+   overflow: auto;
 }
 
 #img-allign {
-    width: 540px;
+    width: 33.75rem;
     display: block;
     margin-left: auto;
     margin-right: auto;
 
 }
 
-.logo {
-     
-}
 
 .nav {
     background-color: black;
-    padding: 30px;
-    border-radius: 8px;
+    padding: 1.875rem;
+    padding: auto;
+    border-radius: 0.5rem;
+    
 
 
 }
@@ -45,35 +45,36 @@ div {
 nav a {
     color: white;
     text-decoration: none;
-    padding: 10px;
+    padding: 0.625rem;
 }
+
 
 #phn {
     background-image: url(https://i.pinimg.com/originals/45/3f/14/453f143ad31ed8482ebed9c4084b8059.jpg);
-    border-radius: 10px;
+    border-radius: 0.625rem;
     margin: auto;
-    width: 450px;
     float: left;
     margin-bottom: auto;
-    height: 120px;
+    width: 30%;
+    color: black;
 }
 #mail {
     background-image: url(https://i.pinimg.com/originals/45/3f/14/453f143ad31ed8482ebed9c4084b8059.jpg);
-    border-radius: 10px;
+    border-radius: 0.625rem;
     margin: auto;
-    width: 450px;
-    height: 120px;
     float: right;
     margin-bottom: auto;
+    width: 30%;
+    color: black;
     
 }
 #address {
     background-image: url(https://i.pinimg.com/originals/45/3f/14/453f143ad31ed8482ebed9c4084b8059.jpg);
-    border-radius: 10px;
+    border-radius: 0.625rem;
     margin: auto;
-    width: 450px;
-    height: 120px;
     margin-bottom: auto;
+    width: 30%; 
+    color: black;
     
 }
 
@@ -94,12 +95,12 @@ nav a {
 }
 
 .logo{
-    width: 25px;
+    width: 1.5625rem;
 }
-footer{
+.footer{
     background-color: rgb(72, 67, 170);
     color: aliceblue;
-    padding: 20px;
+    padding: 0.3125rem;
 
 }
 h4{
@@ -107,6 +108,7 @@ h4{
 }
 #footer{
     text-align: center;
+    
 }
 #foot_head{
     text-align: center;
@@ -118,5 +120,14 @@ h4{
     font-size: 90%;
 }
 #fb{
-    width: 35px;
+    width: 2.1875rem;
+}
+@media(max-width:63rem)
+{
+    html{
+        font-size: 100%;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
 }
