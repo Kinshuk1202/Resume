@@ -1,2 +1,2 @@
 ## Resume
-- [link to my resume](http://127.0.0.1:5500/index.html)
+- [link to my resume](https://kinshuk-khare-resume.netlify.app)
