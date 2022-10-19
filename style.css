@@ -12,6 +12,14 @@ h2 {
         0 0 20px #30b75b, 0 0 30px #A5F1FF,
         0 0 40px #A5F1FF;
 }
+.nav{
+    position:sticky;
+    top: 0%;
+    opacity: 0.88;
+}
+#home{
+    margin-left: 9%;
+}
 
 div {
     margin: auto;
