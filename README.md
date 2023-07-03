@@ -1,2 +1,2 @@
 ## Resume
-- [link to my resume](https://kinshuk-khare-resume.netlify.app)
+- [link to my resume](https://resumekisnshuk.netlify.app/)
